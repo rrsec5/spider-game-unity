@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Wall
+  - Spikes
+  - WallSpikes
+  - Enemy
+  - Checkpoint
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - WallSpikes
+  - Spikes
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 3178236699
+    locked: 0
+  - name: Ground
+    uniqueID: 2261924253
+    locked: 0
+  - name: Ceiling
+    uniqueID: 3946158673
+    locked: 0
+  - name: Player
+    uniqueID: 3385363347
+    locked: 0
+  m_RenderingLayers:
+  - Default
